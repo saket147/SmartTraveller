@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="19536266471623"
+    token="3864855783504868672"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="52" />
+    <task
+        name="instant-run-dex"
+        duration="6" />
+    <task
+        name="instant-run-transform"
+        duration="7" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="16988971601861"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="18251425781727"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="18294369136676"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/builds/debug/18294369136676/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="18982025494484"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/builds/debug/18982025494484/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="19041428513618"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/builds/debug/19041428513618/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="19199664335170"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/builds/debug/19199664335170/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="19214435428244"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/builds/debug/19214435428244/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="19224933377803"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/builds/debug/19224933377803/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="19254902113945"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/builds/debug/19254902113945/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="19278674338120"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/builds/debug/19278674338120/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="19291813479187"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/builds/debug/19291813479187/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="19316089463031"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/builds/debug/19316089463031/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="19333314894241"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/builds/debug/19333314894241/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="19536266471623"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

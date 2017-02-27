@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/socket/AndroidStudioProjects/SmartTraveller/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/home/socket/AndroidStudioProjects/SmartTraveller/app/src/main/res/menu/activity_main_drawer.xml"
+    }
+]

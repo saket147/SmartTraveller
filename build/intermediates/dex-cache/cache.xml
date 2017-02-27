@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/socket/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_73c66e23fa2dbc78c1e1ac08a24c9e8b5e3b014f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/socket/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_fc55a20f612ed0a9debd3ed3b040c19504ea9f83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_06c63bc0689e5cc04d9997c5be7fecc21f240a52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.1_a4716e64d36b995daca14c0053ebdde8b784e766.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.1_47177e0cd1ab35ce566ceb42fcaf6777c8e04056.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.miguelcatalan/materialsearchview/1.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="918e3e9514d90e54421b674cf0c95044f4e155ad">
+        <dex dex="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.miguelcatalan-materialsearchview-1.4.0_09c505b4e64ff8c0d5693a0738bd2bc7ef12eac1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_ce3d4d336ba8a0255b666a4113419c3417808e06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.1_284155bd99a6f43b409a729c4a0b8a98f914774a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_5b11a7b9130876d011d4828d4e9e23bffd729016.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_07f9a1c5980dd0a8d6c37d95888881c587a9eadf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_bccc9800a0cc16115fb3029812402890a676d79c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_ec3d63c6dd817af1a5bca6b891bfc308d4ebc798.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_7add059f1e99eac36bd59cca8f752a553efa5356.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_2bc6e222b0a5a40aae6edcb9f5f8189411d871e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_6830e11bb870a025135eeed6919a45a898e9c1c6.jar" />
+    </item>
+
+</items>
