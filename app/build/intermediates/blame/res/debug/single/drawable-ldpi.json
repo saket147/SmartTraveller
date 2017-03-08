@@ -2,5 +2,13 @@
     {
         "merged": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_search_black_24dp.png",
         "source": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/generated/res/pngs/debug/drawable-ldpi/ic_search_black_24dp.png"
+    },
+    {
+        "merged": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/res/merged/debug/drawable-ldpi/close.png",
+        "source": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/generated/res/pngs/debug/drawable-ldpi/close.png"
+    },
+    {
+        "merged": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/res/merged/debug/drawable-ldpi/share_webpage.png",
+        "source": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/generated/res/pngs/debug/drawable-ldpi/share_webpage.png"
     }
 ]

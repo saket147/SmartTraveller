@@ -12,6 +12,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.4.0_a3da8d481ca481ba07aeb3f378779ca3a3f7dc13.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/socket/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
         jumboMode="false"
         optimize="true"
@@ -21,30 +30,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.4.0_38eb4de0edd407e56565de31c12c81843f0d1508.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.4.0_c568f1bf5886e11d1894993a6abf4acef82326ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
         <dex dex="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_06c63bc0689e5cc04d9997c5be7fecc21f240a52.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
-        <dex dex="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.1_a4716e64d36b995daca14c0053ebdde8b784e766.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
-        <dex dex="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.1_47177e0cd1ab35ce566ceb42fcaf6777c8e04056.jar" />
     </item>
     <item
         is-multidex="false"
@@ -66,6 +75,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.1_a4716e64d36b995daca14c0053ebdde8b784e766.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -75,12 +93,39 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.4.0_b78bec7e655ae0e01a619013160cd11b1049566d.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
         <dex dex="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_5b11a7b9130876d011d4828d4e9e23bffd729016.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.1_47177e0cd1ab35ce566ceb42fcaf6777c8e04056.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.4.0_c77edee2acaafcf8dc259ee571f90b03842c6ef6.jar" />
     </item>
     <item
         is-multidex="false"
@@ -111,6 +156,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.4.0_f4c9d47a89f3090338cfbf9ccfc165c7162b315d.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -135,6 +189,15 @@
         revision="25.0.2"
         sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
         <dex dex="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_6830e11bb870a025135eeed6919a45a898e9c1c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.4.0_f5c89df30ed2e6d5c83e1d9e07284975859deab7.jar" />
     </item>
 
 </items>

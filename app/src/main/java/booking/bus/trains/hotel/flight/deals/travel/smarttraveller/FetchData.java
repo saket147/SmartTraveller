@@ -18,11 +18,12 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.io.UnsupportedEncodingException;
 import java.net.HttpURLConnection;
-import java.net.MalformedURLException;
-import java.net.ProtocolException;
 import java.net.URL;
 import java.net.URLEncoder;
 import java.util.Iterator;
+
+import booking.bus.trains.hotel.flight.deals.travel.smarttraveller.Listeners.NetworkResponseListener;
+import booking.bus.trains.hotel.flight.deals.travel.smarttraveller.PojoClasses.Config;
 
 /**
  * Created by socket on 9/2/17.

@@ -12,8 +12,16 @@
         "source": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.miguelcatalan/materialsearchview/1.4.0/res/drawable-xhdpi/ic_suggestion.png"
     },
     {
+        "merged": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/res/merged/debug/drawable-xhdpi/share_webpage.png",
+        "source": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/generated/res/pngs/debug/drawable-xhdpi/share_webpage.png"
+    },
+    {
         "merged": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_search_black_24dp.png",
         "source": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_search_black_24dp.png"
+    },
+    {
+        "merged": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/res/merged/debug/drawable-xhdpi/close.png",
+        "source": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/generated/res/pngs/debug/drawable-xhdpi/close.png"
     },
     {
         "merged": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_navigation_close.png",

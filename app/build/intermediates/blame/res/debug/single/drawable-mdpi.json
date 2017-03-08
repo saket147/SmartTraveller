@@ -32,7 +32,15 @@
         "source": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.miguelcatalan/materialsearchview/1.4.0/res/drawable-mdpi/ic_action_navigation_close.png"
     },
     {
+        "merged": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/res/merged/debug/drawable-mdpi/close.png",
+        "source": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/generated/res/pngs/debug/drawable-mdpi/close.png"
+    },
+    {
         "merged": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_navigation_close_inverted.png",
         "source": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.miguelcatalan/materialsearchview/1.4.0/res/drawable-mdpi/ic_action_navigation_close_inverted.png"
+    },
+    {
+        "merged": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/res/merged/debug/drawable-mdpi/share_webpage.png",
+        "source": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/generated/res/pngs/debug/drawable-mdpi/share_webpage.png"
     }
 ]

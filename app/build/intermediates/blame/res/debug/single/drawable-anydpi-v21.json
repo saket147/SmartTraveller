@@ -1,7 +1,15 @@
 [
     {
+        "merged": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/share_webpage.xml",
+        "source": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/generated/res/pngs/debug/drawable-anydpi-v21/share_webpage.xml"
+    },
+    {
         "merged": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
         "source": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/close.xml",
+        "source": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/generated/res/pngs/debug/drawable-anydpi-v21/close.xml"
     },
     {
         "merged": "/home/socket/AndroidStudioProjects/SmartTraveller/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",

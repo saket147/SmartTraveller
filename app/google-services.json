@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "759780224781",
+    "firebase_url": "https://smarttraveller-d409a.firebaseio.com",
+    "project_id": "smarttraveller-d409a",
+    "storage_bucket": "smarttraveller-d409a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759780224781:android:ccc4e489f319efd3",
+        "android_client_info": {
+          "package_name": "booking.bus.trains.hotel.flight.deals.travel.smarttraveller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759780224781-cnippdi3m7ohn5jtkllg3haqfckpinr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "booking.bus.trains.hotel.flight.deals.travel.smarttraveller",
+            "certificate_hash": "9ad447e58fbc5fe8a7bd9cc03f6114d1986e2c83"
+          }
+        },
+        {
+          "client_id": "759780224781-eubb5qguvpa5bgnmfcaoq3iomsg3biqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVnRJQX2MVGwhwV2OsP8SKISaZ2zjgbA0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759780224781-eubb5qguvpa5bgnmfcaoq3iomsg3biqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
