@@ -770,7 +770,7 @@ int id alertTitle 0x7f0d005a
 int id all 0x7f0d0036
 int id always 0x7f0d003c
 int id auto 0x7f0d0025
-int id backWebpage 0x7f0d00cc
+int id backWebpage 0x7f0d00cb
 int id beginning 0x7f0d0038
 int id bottom 0x7f0d0026
 int id bottomLayout 0x7f0d0086
@@ -783,7 +783,7 @@ int id checkbox 0x7f0d005d
 int id chronometer 0x7f0d00a9
 int id clip_horizontal 0x7f0d0032
 int id clip_vertical 0x7f0d0033
-int id close_linear 0x7f0d00cb
+int id close_linear 0x7f0d00ca
 int id codeRequired 0x7f0d008a
 int id collapseActionView 0x7f0d003d
 int id companyName 0x7f0d0089
@@ -896,7 +896,7 @@ int id search_top_bar 0x7f0d00bd
 int id search_voice_btn 0x7f0d0073
 int id select_dialog_listview 0x7f0d0074
 int id share 0x7f0d0088
-int id sharePage 0x7f0d00ca
+int id sharePage 0x7f0d00c9
 int id shortcut 0x7f0d005e
 int id showCustom 0x7f0d0015
 int id showHome 0x7f0d0016
@@ -932,7 +932,7 @@ int id time 0x7f0d00a8
 int id title 0x7f0d004c
 int id titleDividerNoCustom 0x7f0d005b
 int id title_template 0x7f0d0059
-int id title_website 0x7f0d00c9
+int id title_website 0x7f0d00cc
 int id toolbar 0x7f0d0080
 int id top 0x7f0d002f
 int id topPanel 0x7f0d0058

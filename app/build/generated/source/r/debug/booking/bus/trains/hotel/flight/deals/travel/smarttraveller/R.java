@@ -2815,7 +2815,7 @@ containing a value of this type.
         public static final int all=0x7f0d0036;
         public static final int always=0x7f0d003c;
         public static final int auto=0x7f0d0025;
-        public static final int backWebpage=0x7f0d00cc;
+        public static final int backWebpage=0x7f0d00cb;
         public static final int beginning=0x7f0d0038;
         public static final int bottom=0x7f0d0026;
         public static final int bottomLayout=0x7f0d0086;
@@ -2828,7 +2828,7 @@ containing a value of this type.
         public static final int chronometer=0x7f0d00a9;
         public static final int clip_horizontal=0x7f0d0032;
         public static final int clip_vertical=0x7f0d0033;
-        public static final int close_linear=0x7f0d00cb;
+        public static final int close_linear=0x7f0d00ca;
         public static final int codeRequired=0x7f0d008a;
         public static final int collapseActionView=0x7f0d003d;
         public static final int companyName=0x7f0d0089;
@@ -2941,7 +2941,7 @@ containing a value of this type.
         public static final int search_voice_btn=0x7f0d0073;
         public static final int select_dialog_listview=0x7f0d0074;
         public static final int share=0x7f0d0088;
-        public static final int sharePage=0x7f0d00ca;
+        public static final int sharePage=0x7f0d00c9;
         public static final int shortcut=0x7f0d005e;
         public static final int showCustom=0x7f0d0015;
         public static final int showHome=0x7f0d0016;
@@ -2977,7 +2977,7 @@ containing a value of this type.
         public static final int title=0x7f0d004c;
         public static final int titleDividerNoCustom=0x7f0d005b;
         public static final int title_template=0x7f0d0059;
-        public static final int title_website=0x7f0d00c9;
+        public static final int title_website=0x7f0d00cc;
         public static final int toolbar=0x7f0d0080;
         public static final int top=0x7f0d002f;
         public static final int topPanel=0x7f0d0058;

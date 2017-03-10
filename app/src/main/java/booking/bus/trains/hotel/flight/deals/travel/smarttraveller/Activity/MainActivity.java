@@ -25,6 +25,10 @@ import android.widget.Toast;
 
 import com.google.firebase.iid.FirebaseInstanceId;
 
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+
 import java.util.ArrayList;
 
 import booking.bus.trains.hotel.flight.deals.travel.smarttraveller.AppRater;
@@ -32,6 +36,7 @@ import booking.bus.trains.hotel.flight.deals.travel.smarttraveller.PojoClasses.C
 import booking.bus.trains.hotel.flight.deals.travel.smarttraveller.Adapters.DataAdapter;
 import booking.bus.trains.hotel.flight.deals.travel.smarttraveller.Adapters.DealsAdapter;
 import booking.bus.trains.hotel.flight.deals.travel.smarttraveller.FetchData;
+import booking.bus.trains.hotel.flight.deals.travel.smarttraveller.PojoClasses.Deal;
 import booking.bus.trains.hotel.flight.deals.travel.smarttraveller.PojoClasses.IconsPOJO;
 import booking.bus.trains.hotel.flight.deals.travel.smarttraveller.Listeners.NetworkResponseListener;
 import booking.bus.trains.hotel.flight.deals.travel.smarttraveller.PojoClasses.POJO;
@@ -44,10 +49,10 @@ public class MainActivity extends AppCompatActivity
     RecyclerView recyclerView;
     private AdapterView.OnItemClickListener mListener;
     private POJO pojo;
+    private Deal deal;
     String url = "https://www.google.com/search?q=";
     private EditText googleSearchEditText;
-    Context context;
-    AppCompatActivity appCompatActivity;
+    public ArrayList<Deal> dealArrayList;
 
     private RecyclerView dealsList;
 
@@ -318,6 +323,7 @@ public class MainActivity extends AppCompatActivity
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
+        dealArrayList = new ArrayList<>();
         AppRater.app_launched(this);
         dealsList = (RecyclerView) findViewById(R.id.dealsList);
         googleSearchEditText = (EditText) findViewById(R.id.search_google);
@@ -428,12 +434,22 @@ private void loadDeals(){
     public void postRequest(Object object) {
         //Parse object to convert to array for deals
 
+        try {
+            String s = "" + object;
+            JSONArray jsonArray = new JSONArray(s);
+            for (int i = 0; i < jsonArray.length(); i++) {
+                JSONObject jsonObject = jsonArray.getJSONObject(i);
+                deal = new Deal(jsonObject.getString("coupon_title"), jsonObject.getString("coupon_code"), jsonObject.getString("offer_name"), jsonObject.getString("link"), jsonObject.getString("added"));
+
+            }
+            dealArrayList.add(deal);
+            //Config.setDeal(deal);
 
 
-
-
-
-    //Set Deals adapter
+            //Set Deals adapter
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
     }
     private void initViews(){
      //   recyclerView.setHasFixedSize(true);
@@ -445,7 +461,7 @@ private void loadDeals(){
         recyclerView.setAdapter(adapter);
         RecyclerView.LayoutManager newLayoutManager = new GridLayoutManager(getApplicationContext(),2);
         dealsList.setLayoutManager(newLayoutManager);
-        DealsAdapter dealsAdapter = new DealsAdapter(MainActivity.this);
+        DealsAdapter dealsAdapter = new DealsAdapter(MainActivity.this,MainActivity.this, Config.getDeal());
         dealsList.setAdapter(dealsAdapter);
     }
     private ArrayList<IconsPOJO> prepareData(){

@@ -3,7 +3,6 @@ package booking.bus.trains.hotel.flight.deals.travel.smarttraveller.Activity;
 import android.app.Activity;
 import android.content.Intent;
 import android.graphics.Bitmap;
-import android.media.Image;
 import android.os.Bundle;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.util.Log;
@@ -14,8 +13,6 @@ import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
-import android.widget.Toolbar;
-
 import booking.bus.trains.hotel.flight.deals.travel.smarttraveller.R;
 
 /**
@@ -93,8 +90,6 @@ public class WebsiteVisit extends Activity{
             notificationURl = bundle.getString("notification_url");
 
         }
-
-
         browser.setWebViewClient(new WebViewClient() {
             @Override
             public boolean shouldOverrideUrlLoading(WebView view, String url) {
@@ -125,6 +120,11 @@ public class WebsiteVisit extends Activity{
         browser.clearHistory();
         browser.getSettings().setJavaScriptEnabled(true);
         browser.getSettings().setJavaScriptCanOpenWindowsAutomatically(true);
+        browser.getSettings().setBuiltInZoomControls(true);
+        browser.getSettings().setAllowContentAccess(true);
+        browser.getSettings().setAllowFileAccess(true);
+        browser.getSettings().setDatabaseEnabled(true);
+        browser.getSettings().setDomStorageEnabled(true);
         if (queryURL == null){
             browser.loadUrl(URL);
         }else {
@@ -140,6 +140,5 @@ public class WebsiteVisit extends Activity{
                     }
                 }
         );
-
     }
 }
