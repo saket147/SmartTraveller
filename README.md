@@ -1,0 +1,1 @@
+This apk have all the details about transportation medium in india and everything is in one app design is simple and user friendly. We've added deals section inside app so that any user get the all deals coupons in app and user can share the details on social media
